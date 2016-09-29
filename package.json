@@ -1,0 +1,23 @@
+{
+  "name": "guru",
+  "version": "1.0.0",
+  "description": "Game Center",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivxpingg/Guru.git"
+  },
+  "keywords": [
+    "game",
+    "center"
+  ],
+  "author": "ivxpingg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivxpingg/Guru/issues"
+  },
+  "homepage": "https://github.com/ivxpingg/Guru#readme"
+}
